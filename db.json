@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Tuấn anh",
+      "publisher": "d",
+      "year": "2023",
+      "price": "134",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "thangtnph52751@gmail.com",
+      "password": "$2a$10$HIcweGLgTXK0yakdImtb2.oIw8AZZF6/CADj/h3T6Ehu4puzAJ296",
+      "name": "thangtn",
+      "id": 1
+    }
+  ]
+}
